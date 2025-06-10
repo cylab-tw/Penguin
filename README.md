@@ -1,4 +1,3 @@
-要記得先npm install然後啟動方法是npm run dev
 # HL7 專案
 
 本專案結合 **Node.js/Express** 後端與 **React** 前端，提供 HL7 訊息產生、解析與 MLLP 傳輸功能，資料儲存採用 **SQLite**。透過 `vite-express` 讓前後端共用一個伺服器運行。
